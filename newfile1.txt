@@ -1,1 +1,3 @@
 Test git fetch and pull commands!
+
+And this is a new line!
